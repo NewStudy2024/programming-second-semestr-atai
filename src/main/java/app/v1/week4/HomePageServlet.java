@@ -1,10 +1,6 @@
 package app.v1.week4;
 
-import org.eclipse.jetty.server.Server;
-import org.eclipse.jetty.servlet.ServletContextHandler;
-import org.eclipse.jetty.servlet.ServletHolder;
 import freemarker.template.*;
-
 import jakarta.servlet.http.*;
 import jakarta.servlet.*;
 import java.io.*;
